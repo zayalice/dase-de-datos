@@ -1,0 +1,27 @@
+#menuDrop{
+    margin-top: 30px;
+}
+
+#titleSlider{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: 'Helvetica';
+}
+
+#cards{
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+a{
+    color: black;
+    margin-right: 10px;
+    font-family: 'Helvetica';
+}
+.range-slider {
+    margin-top: 20px;
+    background-color: #F8F4FF; /* Fondo pastel */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 10px;
+}
